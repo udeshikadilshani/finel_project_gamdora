@@ -23,15 +23,9 @@ import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author udesh
- */
 public class cutomer_register extends javax.swing.JFrame {
 
-    /**
-     * Creates new form cutomer_register
-     */
+   
     public cutomer_register() {
         initComponents();
         screensize();
